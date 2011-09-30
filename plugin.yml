@@ -1,0 +1,5 @@
+name: SimpleCreativeWorlds
+main: me.main__.SimpleCreativeWorlds.SimpleCreativeWorlds
+version: 1.0
+author: main()
+description: Just make some worlds creative.
